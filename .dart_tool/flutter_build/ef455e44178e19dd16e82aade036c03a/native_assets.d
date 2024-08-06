@@ -1,0 +1,1 @@
+ C:\\Users\\aldik\\OneDrive\\Dokumen\\GitHub\\aplikasi-manajemen-keuangan\\.dart_tool\\flutter_build\\ef455e44178e19dd16e82aade036c03a\\native_assets.yaml: 
